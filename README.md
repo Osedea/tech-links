@@ -1,7 +1,7 @@
 # Osedea Tech Links
 A repository of shared knowledge in the form of links to various topics and teachings in Technology, News and Science.
 
-## Example Guide to navigate the structure of the repo:
+### Example Guide to navigate the structure of the repo:
 * Links(Top Level Directory)
     * JavaScript(Directory)
         * React(File)
@@ -18,6 +18,7 @@ A repository of shared knowledge in the form of links to various topics and teac
             * Link1
             * Link2
 
+### More Info
 Link example: [Osedea homepage](https://osedea.com/en) | Author or Estimated Read time (Optional)
 Multiple nested sub directories can be created for each topic/language/framework.
 
