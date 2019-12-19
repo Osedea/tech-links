@@ -1,0 +1,1 @@
+[Smart PNG and JPEG compression(tinypng)](https://tinypng.com/)
