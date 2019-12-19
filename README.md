@@ -2,8 +2,8 @@
 A repository of shared knowledge in the form of links to various topics and teachings in Technology, News and Science.
 
 ### Example Guide to navigate the structure of the repo:
-* Links(Top Level Directory)
-    * JavaScript(Directory)
+* [Links](https://github.com/Osedea/OsedeaTechLinks/tree/master/Links)(Top Level Directory)
+    * [JavaScript](https://github.com/Osedea/OsedeaTechLinks/tree/master/Links/JavaScript)(Directory)
         * React(File)
             * Link1
             * Link2
@@ -18,11 +18,11 @@ A repository of shared knowledge in the form of links to various topics and teac
             * Link1
             * Link2
 
-### More Info
-Link example: [Osedea homepage](https://osedea.com/en) | Author or Estimated Read time (Optional)
+### More info about this Repo
+Link example: [Osedea homepage](https://osedea.com/en) | Author or Estimated Read time (Optional) \
 Multiple nested sub directories can be created for each topic/language/framework.
 
-Many of the links accumulated here were shared by our team on our internal slack and proved to be very informative and worth archiving and coming back to.
+Many of the links accumulated here, were shared by our team on our internal slack or apart of our new dev training. They have proved to be very informative and worth archiving and coming back to.
 
 We also felt much of this information should be shared and further explored, so we are making this archive open source in the hopes of increasing collaboration and accumulating more links and topics of information.
 
