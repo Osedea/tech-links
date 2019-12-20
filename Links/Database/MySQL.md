@@ -1,0 +1,1 @@
+[MySQL decimal type differences](https://code.rohitink.com/2013/06/12/mysql-integer-float-decimal-data-types-differences/)
