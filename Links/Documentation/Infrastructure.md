@@ -1,0 +1,1 @@
+[Documenting your infrastructure](https://www.reddit.com/r/aws/comments/dxmkci/how_do_you_document_your_infrastructure/)
