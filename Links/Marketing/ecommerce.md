@@ -1,0 +1,1 @@
+[Ecommerce Trends 2020](https://10ecommercetrends.com/)

@@ -1,0 +1,1 @@
+[SOLID Principles](https://en.wikipedia.org/wiki/SOLID) \

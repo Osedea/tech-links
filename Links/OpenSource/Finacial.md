@@ -1,0 +1,1 @@
+[A handy guide to finacial support for open source.](https://github.com/nayafia/lemonade-stand)
