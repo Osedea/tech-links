@@ -1,0 +1,1 @@
+[Prismic.io - simple, supports i18n, supports any tech](prismic.io)

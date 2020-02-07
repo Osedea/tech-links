@@ -1,0 +1,2 @@
+[Microsoft Explains the Future of the Windows 10 App Platform](https://www.thurrott.com/dev/221688/microsoft-explains-the-future-of-the-windows-10-app-platform) \
+[.NET Core vs .NET Framework: How to pick a .NET Runetime for an Application](https://stackify.com/net-core-vs-net-framework/)
