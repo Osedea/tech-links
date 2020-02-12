@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://osedea-tech-links.netlify.com/sitemap.xml
+Host: https://osedea-tech-links.netlify.com
