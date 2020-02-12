@@ -34,3 +34,6 @@ Feel free to add your own topics or links in the via pull request, we are always
 ## TODO
 - add a way to check for duplicates
 - add UI to better navigate the content
+
+## Web version
+https://osedea.github.io/tech-links/
