@@ -2,7 +2,7 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`
 })
 module.exports = {
-  pathPrefix: '/tech-links-web',
+  pathPrefix: '/tech-links',
   siteMetadata: {
     title: 'Osedea Tech Links',
     description: 'Web version of the Osedea Tech Links',
