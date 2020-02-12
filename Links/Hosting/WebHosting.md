@@ -1,1 +1,0 @@
-[Wikipedia Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service)

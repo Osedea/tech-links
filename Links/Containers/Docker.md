@@ -1,2 +1,0 @@
-[Virtual Machines vs Docker Containers](https://www.youtube.com/watch?v=TvnZTi_gaNc) \
-[Database in a docker container](https://medium.com/@wkrzywiec/database-in-a-docker-container-how-to-start-and-whats-it-about-5e3ceea77e50)

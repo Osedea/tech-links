@@ -1,1 +1,0 @@
-[This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)

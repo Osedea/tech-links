@@ -1,1 +1,0 @@
-[Work & Life Balance Tips for Programmers](https://www.youtube.com/watch?v=E6_CORTcx4k)

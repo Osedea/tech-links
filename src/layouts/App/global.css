@@ -1,0 +1,213 @@
+/*------------------------------------*\
+  Global CSS - Embrace the cascade
+\*------------------------------------*/
+
+/* === Start from best-practices CSS defaults === */
+@import '~sanitize.css';
+@import '~sanitize.css/typography.css';
+@import '~sanitize.css/forms.css';
+
+/* === Global variables === */
+:root {
+	--background-color: #ffffff;
+	--alt-background-color: #f4f4f4;
+	--elevated-background-color: #ffffff;
+	--text-color: #121212;
+  --accent-color: #0000FF;
+  --container-width: 640px;
+}
+
+/* === Default cascade === */
+html {
+  color: var(--text-color);
+  background-color: var(--alt-background-color);
+  scroll-behavior: smooth;
+}
+
+/* === Opionated tweaks === */
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+::selection {
+	background: var(--accent-color);
+	color: var(--background-color);
+}
+
+iframe,
+img,
+input,
+select,
+textarea {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+/* === Typography === */
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin: 1rem 0;
+  font-weight: bold;
+  &:first-child {
+    margin-top: 0;
+  }
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+h1, .h1 {
+  font-size: 2rem;
+}
+h2, .h2 {
+  font-size: 1.5rem;
+}
+h3, .h3 {
+  font-size: 1.17rem;
+}
+h4, .h4 {
+  font-size: 1rem;
+}
+h5, .h5 {
+  font-size: 0.83rem;
+}
+h6, .h6 {
+  font-size: 0.67rem;
+}
+
+p, .paragraph {
+  margin: 1rem 0;
+  font-size: 1rem;
+  &:first-child {
+    margin-top: 0;
+  }
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a, .link {
+  text-decoration: underline;
+  color: inherit;
+}
+
+
+
+/* === Buttons === */
+button, .button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 1px solid currentColor;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.75rem;
+  text-decoration: none;
+  &:hover {
+    opacity: 0.9;
+  }
+  &:active {
+    opacity: 0.8;
+  }
+  & + & {
+    margin-left: 0.5rem;
+  }
+  &.primary {
+    color: var(--background-color);
+    background-color: var(--text-color);
+  }
+}
+
+
+
+/* === Forms === */
+input:not([type="radio"]):not([type="checkbox"]):not([type="color"]):not([type="color"]),
+select,
+textarea {
+  display: block;
+  border-radius: 0.25rem;
+  padding: 0.5rem 0.75rem;
+  &:focus {
+    outline: none;
+    border-color: var(--text-color);
+  }
+}
+
+textarea {
+  min-height: 2.625rem;
+}
+
+select {
+  padding-right: 1.25rem;
+}
+
+
+
+/* === Misc === */
+code {
+  display: inline-block;
+  background-color: var(--alt-background-color);
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+pre code {
+  display: block;
+  padding: 1rem;
+}
+
+hr {
+  margin: 1rem 0;
+  border: none;
+  height: 1px;
+  background-color: currentColor;
+}
+
+
+
+/* === Global utility classes === */
+.container {
+  max-width: var(--container-width);
+  margin: 6rem auto 6rem 30%;
+  padding: 1rem;
+}
+
+
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  grid-gap: 2rem;
+}
+
+.card {
+  background-color: var(--elevated-background-color);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px 0 rgba(184,184,184,.5);
+  > h4 {
+    margin: 0;
+  }
+  > p {
+    margin: 0;
+  }
+  a {
+    display: block;
+  }
+}
+
+.categories {
+  > h1 {
+    margin-top: -3rem;
+  }
+  .category-title {
+    margin: 3rem 0 1rem 0;
+  }
+}

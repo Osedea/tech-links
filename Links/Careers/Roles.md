@@ -1,1 +1,0 @@
-[Software Architect](https://github.com/justinamiller/SoftwareArchitect)

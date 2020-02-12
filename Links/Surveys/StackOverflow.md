@@ -1,1 +1,0 @@
-[Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019)

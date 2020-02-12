@@ -1,1 +1,0 @@
-[freeCodeCamp.org](https://www.freecodecamp.org/)

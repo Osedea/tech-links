@@ -1,1 +1,0 @@
-[Free illustrations resources for the web](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c)

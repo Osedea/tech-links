@@ -1,1 +1,0 @@
-[REST and GraphQL framework to build modern API-driven projects](https://api-platform.com/)

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@*": ["./src/*"],
+    }
+  },
+  "include": [
+    "index.d.ts",
+    "src/**/*"
+  ],
+  "exclude": ["node_modules", "public", ".cache"]
+}

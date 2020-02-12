@@ -1,1 +1,0 @@
-[AntiCaptcha- CAPTCHA solving service](https://anti-captcha.com/mainpage)

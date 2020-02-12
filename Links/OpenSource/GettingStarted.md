@@ -1,1 +1,0 @@
-[How to get started with open source in 2020](https://opensource.com/article/20/1/getting-started-open-source)

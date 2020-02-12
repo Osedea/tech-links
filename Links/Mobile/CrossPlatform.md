@@ -1,1 +1,0 @@
-[Where Do Cross-Platform App Frameworks Stand in 2020?](https://www.netsolutions.com/insights/cross-platform-app-frameworks-in-2019/)

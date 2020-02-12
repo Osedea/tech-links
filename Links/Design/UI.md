@@ -1,1 +1,0 @@
-[What Is The Best Screen Size To Design For in 2020?](https://www.hobo-web.co.uk/best-screen-size/)

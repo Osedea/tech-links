@@ -1,1 +1,0 @@
-[Diagram Generation Tool](https://www.diagram.codes/)

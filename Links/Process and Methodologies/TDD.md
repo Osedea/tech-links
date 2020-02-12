@@ -1,2 +1,0 @@
-[Test-Driven Development(TDD)](https://technologyconversations.com/2014/09/30/test-driven-development-tdd/) \
-[TDD: Example Walkthrough](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)

@@ -1,1 +1,0 @@
-[DevDocs](https://devdocs.io/)

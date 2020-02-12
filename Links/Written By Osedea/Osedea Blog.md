@@ -1,2 +1,0 @@
-[The truth about the 4 day work week](https://medium.com/osedea/the-truth-about-the-4-day-work-week-how-to-know-if-this-trendy-employee-benefit-will-work-for-46c0376720ce) \
-[Debunking Three Myths about Flat Structure](https://medium.com/osedea/debunking-three-myths-about-flat-structure-3e8273e761d1)

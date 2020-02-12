@@ -1,0 +1,10 @@
+.sticky {
+  position: absolute;
+  top: 0;
+}
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: -14rem;
+  width: 12rem;
+}

@@ -1,1 +1,0 @@
-[Build Web AR apps with Torch AR](https://www.torch.app/)

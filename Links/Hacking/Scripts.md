@@ -1,1 +1,0 @@
-[Hacker-Scripts](https://github.com/NARKOZ/hacker-scripts)

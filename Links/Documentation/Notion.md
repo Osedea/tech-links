@@ -1,1 +1,0 @@
-[Notion Charts](https://www.notion.vip/charts/)

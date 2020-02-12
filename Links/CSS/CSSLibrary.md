@@ -1,1 +1,0 @@
-[Simple CSS animations](https://daneden.github.io/animate.css/)

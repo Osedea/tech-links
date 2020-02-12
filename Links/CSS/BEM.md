@@ -1,1 +1,0 @@
-[How I stopped worrying and learned to love the CSS with BEM](https://blog.theodo.com/2015/10/how-i-stopped-worrying-and-learned-to-love-the-css-with-bem/)

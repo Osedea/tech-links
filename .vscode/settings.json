@@ -1,0 +1,7 @@
+{
+  "files.eol": "\n",
+  "javascript.implicitProjectConfig.checkJs": true,
+  "files.associations": {
+    "*.css": "scss"
+  }
+}

@@ -1,0 +1,14 @@
+.link {
+  position: absolute;
+  top: -100%;
+  left: -100%;
+  padding: 1rem;
+  background-color: var(--accent-color);
+  color: white;
+  text-decoration: none;
+  &:focus, &:active {
+    text-decoration: underline;
+    top: 0;
+    left: 0;
+  }
+}
