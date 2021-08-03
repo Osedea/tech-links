@@ -1,1 +1,1 @@
-[Oh Shit, Git!?!][https://ohshitgit.com/]
+[Oh Shit, Git!?!](https://ohshitgit.com/)
